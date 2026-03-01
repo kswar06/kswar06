@@ -70,14 +70,28 @@ https://github.com/kswar06/Bitcoin-Predictor-Agent-Demo.git
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Activity & Engineering Footprint
+
+## 📊 GitHub Activity & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kswar06&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=kswar06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kswar06&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="170"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kswar06&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kswar06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=ffffff" height="150"/>
+
+</p>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kswar06/kswar06/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
