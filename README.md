@@ -73,22 +73,13 @@ https://github.com/kswar06/Bitcoin-Predictor-Agent-Demo
 
 ---
 
-# 📊 GitHub Activity & Engineering Footprint
+## 📊 GitHub Engineering Overview
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kswar06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff" height="170"/>
-
-<img src="https://streak-stats.demolab.com?user=kswar06&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kswar06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=ffffff" height="150"/>
-
-</p>
-
+- 🚀 Active AI & ML Projects
+- 🧠 Production-grade system architecture
+- 📦 Dockerized full-stack deployments
+- ⚡ FastAPI + React ecosystem
+- 📈 Focused on scalable ML engineering
 
 ---
 
