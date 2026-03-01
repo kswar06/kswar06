@@ -14,17 +14,19 @@
 
 # 👋 About Me
 
-Deloitte Certified Technical Architect (Ex-Deloitte, 8+ years)  
-Executive Program in Data Science & AI — IIM Lucknow Alumni  
+**Deloitte Certified Technical Architect**  
+**Ex-Deloitte (8+ Years)**  
+**Executive Program in Data Science & AI — IIM Lucknow Alumni**
 
-I specialize in designing and building **production-grade AI systems** that integrate:
+I design and build **production-grade AI systems** that combine:
 
-- Machine Learning
-- Distributed Backend Systems
-- Modern Frontend Interfaces
+- Machine Learning & Deep Learning
+- Distributed Backend Architecture
+- Interactive Data Visualization
 - Containerized Deployments
+- Enterprise-grade engineering principles
 
-Currently transitioning from enterprise architecture into advanced AI system design.
+Currently focused on transitioning from enterprise architecture into **advanced AI system design & applied ML engineering**.
 
 ---
 
@@ -32,53 +34,52 @@ Currently transitioning from enterprise architecture into advanced AI system des
 
 ## 🔮 Bitcoin Predictor Agent
 
-AI-powered multi-model crypto forecasting dashboard.
+AI-powered multi-model crypto forecasting dashboard built with production architecture principles.
 
-✔ LSTM  
-✔ SARIMA  
-✔ Prophet  
-✔ XGBoost  
-✔ AutoML model selection  
+✔ LSTM (50 / 100 epochs)  
+✔ SARIMA (multiple parameter configs)  
+✔ Facebook Prophet  
+✔ XGBoost Regressor  
+✔ AutoML model selection (RMSE-based)  
 ✔ React + FastAPI full-stack  
 ✔ Dockerized deployment  
 
-🔗 View Project:  
-https://github.com/kswar06/Bitcoin-Predictor-Agent-Demo.git
+🔗 **Project Repository:**  
+https://github.com/kswar06/Bitcoin-Predictor-Agent-Demo
 
 ---
 
 # 🧠 Technical Focus Areas
 
-### AI & ML
+## 🤖 AI & Machine Learning
 - Time Series Forecasting
-- Deep Learning (LSTM)
+- LSTM & Deep Learning
 - AutoML Orchestration
-- Model Evaluation & Selection
+- Model Evaluation & Selection (RMSE, MAE, MAPE)
 - Financial Data Modeling
 
-### Backend Engineering
+## ⚙️ Backend Engineering
 - FastAPI
 - Microservices Architecture
 - REST API Design
 - Docker & Containerization
+- Scalable System Design
 
-### Frontend
+## 🎨 Frontend Engineering
 - React
-- Interactive Data Visualization
 - Chart.js
+- Interactive Forecast Visualization
 - Production UI Design
 
 ---
 
 # 📊 GitHub Activity & Engineering Footprint
 
-## 📊 GitHub Activity & Contributions
-
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=kswar06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kswar06&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="170"/>
+<img src="https://streak-stats.demolab.com?user=kswar06&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="170"/>
 
 </p>
 
@@ -88,30 +89,34 @@ https://github.com/kswar06/Bitcoin-Predictor-Agent-Demo.git
 
 </p>
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kswar06/kswar06/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
 # 🎯 Current Mission
 
-Building scalable AI-driven systems that combine:
+Building scalable AI-driven systems that merge:
 
-Enterprise Architecture  
-Machine Learning  
-Full-Stack Engineering  
+- Enterprise Architecture  
+- Machine Learning Engineering  
+- Full-Stack Product Development  
+
+With a focus on **real-world deployable AI solutions**, not just notebooks.
 
 ---
 
 # 💬 Let’s Connect
 
-If you’re a recruiter, hiring manager, or collaborator interested in AI system design or applied machine learning:
+If you're a **recruiter, hiring manager, or collaborator** interested in:
 
-📩 Reach out via LinkedIn or email.
+- AI System Design  
+- Applied Machine Learning  
+- Production ML Architecture  
+- Full-Stack AI Applications  
+
+📩 Reach out via LinkedIn or email above.
 
 ---
 
+<p align="center">
 © 2026 Ketan Swaroop
+</p>
